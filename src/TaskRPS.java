@@ -42,7 +42,6 @@ playerB = sc.nextLine();
 System.out.println("Thanks for playing!");
 sc.close();
 
-
         }
     }
 
